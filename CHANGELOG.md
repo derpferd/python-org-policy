@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/python-org-policy/compare/v0.2.0...v0.3.0) (2021-04-16)
+
+
+### Features
+
+* add `from_service_account_info` ([#24](https://www.github.com/googleapis/python-org-policy/issues/24)) ([cb5881d](https://www.github.com/googleapis/python-org-policy/commit/cb5881dac8121617fda5a4d9df9f70c80dcc8735))
+
+
+### Bug Fixes
+
+* use correct retry deadline ([#28](https://www.github.com/googleapis/python-org-policy/issues/28)) ([5d1f86c](https://www.github.com/googleapis/python-org-policy/commit/5d1f86c3121c778f71205364af43e1f26f4c12c9))
+
 ## [0.2.0](https://www.github.com/googleapis/python-org-policy/compare/v0.1.2...v0.2.0) (2021-03-01)
 
 

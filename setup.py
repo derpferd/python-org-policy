@@ -34,7 +34,7 @@ except ImportError:
         from pkg_resources.extern import packaging
     packaging.version.Version = packaging.version.LegacyVersion
 
-version = "0.2.0"
+version = "0.3.0"
 
 package_root = os.path.abspath(os.path.dirname(__file__))
 
